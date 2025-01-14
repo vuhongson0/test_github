@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonvh\\OneDrive\\Desktop\\C\u002B\u002B\\Dien_tich_hinh_tron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F33345-E566-4B23-935D-36E2734D11E4}|Dien_tich_hinh_tring.vcxproj|C:\\Users\\sonvh\\OneDrive\\Desktop\\C\u002B\u002B\\Dien_tich_hinh_tron\\Dien_tich_hinh_tring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F33345-E566-4B23-935D-36E2734D11E4}|Dien_tich_hinh_tring.vcxproj|solutionrelative:Dien_tich_hinh_tring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dien_tich_hinh_tring.cpp",
+              "DocumentMoniker": "C:\\Users\\sonvh\\OneDrive\\Desktop\\C\u002B\u002B\\Dien_tich_hinh_tron\\Dien_tich_hinh_tring.cpp",
+              "RelativeDocumentMoniker": "Dien_tich_hinh_tring.cpp",
+              "ToolTip": "C:\\Users\\sonvh\\OneDrive\\Desktop\\C\u002B\u002B\\Dien_tich_hinh_tron\\Dien_tich_hinh_tring.cpp*",
+              "RelativeToolTip": "Dien_tich_hinh_tring.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T03:11:00.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
