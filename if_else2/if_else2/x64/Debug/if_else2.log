@@ -1,0 +1,4 @@
+﻿  if_else2.cpp
+C:\Users\sonvh\OneDrive\Desktop\C++\if_else2\if_else2.cpp(15,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sonvh\OneDrive\Desktop\C++\if_else2\if_else2.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  if_else2.vcxproj -> C:\Users\sonvh\OneDrive\Desktop\C++\if_else2\x64\Debug\if_else2.exe
