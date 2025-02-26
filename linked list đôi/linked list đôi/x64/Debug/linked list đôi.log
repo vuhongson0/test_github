@@ -1,0 +1,9 @@
+﻿  linked list đôi.cpp
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(65,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(66,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(67,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(68,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(69,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(71,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\linked list đôi.cpp(74,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  linked list đôi.vcxproj -> C:\Users\sonvh\OneDrive\Desktop\C++\linked list đôi\x64\Debug\linked list đôi.exe
